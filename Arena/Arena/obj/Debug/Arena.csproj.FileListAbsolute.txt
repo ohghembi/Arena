@@ -1,0 +1,10 @@
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.csproj.AssemblyReference.cache
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.Form1.resources
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.Properties.Resources.resources
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.csproj.GenerateResource.cache
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\bin\Debug\Arena.exe.config
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\bin\Debug\Arena.exe
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\bin\Debug\Arena.pdb
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.exe
+C:\Users\gambirasio.21194\source\repos\Arena\Arena\obj\Debug\Arena.pdb
